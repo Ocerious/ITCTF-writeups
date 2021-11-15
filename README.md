@@ -17,4 +17,4 @@ Starting, the challenge includes a link to a file called “`backrooms.mp3`”. 
 
 After entering this link into the address bar, we will be greeted by two images; “`ssssssssssssssssssssssssssssss.png`” and “`treat j as i.png`”.
 
-<img width="50%" src="./assets/ssssssssssssssssssssssssss.png" /><img width="50%" src="./assets/treat j as i.png" /></p>
+<img width="50%" src="./assets/ssssssssssssssssssssssssssssss.png" /><img width="50%" src="./assets/alphabet practice.png" /></p>
