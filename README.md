@@ -16,3 +16,5 @@ Starting, the challenge includes a link to a file called “`backrooms.mp3`”. 
 <p align="center"><img width="80%" src="./assets/googledrivelink.jpg" /></a></p>
 
 After entering this link into the address bar, we will be greeted by two images; “`ssssssssssssssssssssssssssssss.png`” and “`treat j as i.png`”.
+
+<img width="50%" src="./assets/ssssssssssssssssssssssssss.png" /><img width="50%" src="./assets/treat j as i.png" /></p>
